@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey hey, I'm Ahmad Haji 👋
 
-<!--
-**Ahmadhaji-hub/Ahmadhaji-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **IT Support & Systems Administrator**
 
-Here are some ideas to get you started:
+💼 **LinkedIn** -> [linkedin.com/in/ahmad-haji-74b285276](https://linkedin.com/in/ahmad-haji-74b285276)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+IT Support Professional transitioning to Systems Administration, with hands-on experience in corporate IT environments, user management, and cloud infrastructure administration.
+
+I actively build and manage a personal Homelab / Virtual Lab environment to simulate enterprise networks, automate workflows, and sharpen my system administration skills.
+
+🚀 **Projects**
+* **zyra-ai-booking** -> AI-powered appointment booking system using n8n, OpenAI, WhatsApp API, Airtable, and Google Calendar.
+* **M365 & Azure Lab** -> Enterprise simulation environment utilizing Microsoft 365 Business Premium and Azure/Entra ID for identity and access management.
+
+🛠️ **Homelab & Tech Stack**
+* **Virtualization & Systems:** Windows Server (Active Directory, Group Policy), Linux systems.
+* **Cloud & Identity:** Microsoft 365, Microsoft Intune (Endpoint Management), Azure AD / Entra ID.
+* **Automation & Tools:** n8n workflow automation, custom JavaScript automation nodes, API integration.
+* **Network Services:** DNS, DHCP, Identity management, and secure system integration.
