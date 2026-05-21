@@ -18,4 +18,4 @@ I actively build and manage a personal Homelab / Virtual Lab environment to simu
 * **Virtualization & Systems:** Windows Server (Active Directory, Group Policy), Linux systems.
 * **Cloud & Identity:** Microsoft 365, Microsoft Intune (Endpoint Management), Azure AD / Entra ID.
 * **Automation & Tools:** n8n workflow automation, custom JavaScript automation nodes, API integration.
-* **Network Services:** DNS, DHCP, Identity management, and secure system integration.
+* **Network Services:** DNS, DHCP, Identity management, and secure system integration
