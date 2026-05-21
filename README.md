@@ -19,3 +19,12 @@ I actively build and manage a personal Homelab / Virtual Lab environment to simu
 * **Cloud & Identity:** Microsoft 365, Microsoft Intune (Endpoint Management), Azure AD / Entra ID.
 * **Automation & Tools:** n8n workflow automation, custom JavaScript automation nodes, API integration.
 * **Network Services:** DNS, DHCP, Identity management, and secure system integration
+
+# 🛠 Focus
+IT Specialist Sys/Cloud Admin | Active Directory • Microsoft 365 • Entra ID • Intune • Automation
+
+# 🎯 Career Goal
+Currently preparing for:
+
+✔ Cloud Engineer
+✔ AI Engineer
