@@ -10,7 +10,7 @@ IT Support Professional transitioning to Systems Administration, with hands-on e
 
 I actively build and manage a personal Homelab / Virtual Lab environment to simulate enterprise networks, automate workflows, and sharpen my system administration skills.
 
-🚀 **Projects**
+🚀 ## Projects ##
 * **zyra-ai-booking** -> AI-powered appointment booking system using n8n, OpenAI, WhatsApp API, Airtable, and Google Calendar.
 * **M365 & Azure Lab** -> Enterprise simulation environment utilizing Microsoft 365 Business Premium and Azure/Entra ID for identity and access management.
 
