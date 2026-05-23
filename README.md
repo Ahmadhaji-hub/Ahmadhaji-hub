@@ -1,6 +1,6 @@
 # Hey hey, I'm Ahmad Haji 👋
 
-🌐 **GlobalTech IT Simulator ->** (https://ahmadhaji-hub.github.io/globaltech-it-simulator)
+🌐 **GlobalTech IT Simulator ->** https://ahmadhaji-hub.github.io/globaltech-it-simulator
 
 💼 **LinkedIn** -> [linkedin.com/in/ahmad-haji-74b285276](https://linkedin.com/in/ahmad-haji-74b285276)
 
