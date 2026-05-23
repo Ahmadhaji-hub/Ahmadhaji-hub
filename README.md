@@ -1,16 +1,17 @@
 # Hey hey, I'm Ahmad Haji 👋
 
-🌐 **IT Support & Systems | Cloud Administrator**
+🌐 **GlobalTech IT Simulator ->** (https://ahmadhaji-hub.github.io/globaltech-it-simulator)
 
 💼 **LinkedIn** -> [linkedin.com/in/ahmad-haji-74b285276](https://linkedin.com/in/ahmad-haji-74b285276)
 
 ---
 
-IT Support Professional transitioning to Systems Administration, with hands-on experience in corporate IT environments, user management, and cloud infrastructure administration.
+IT Specialist, with hands-on experience in corporate IT environments, user management, and cloud infrastructure administration.
 
 I actively build and manage a personal Homelab / Virtual Lab environment to simulate enterprise networks, automate workflows, and sharpen my system administration skills.
 
 # 🚀 Projects
+* **GlobalTech IT Simulator -> A modern enterprise IT infrastructure simulation platform focused on real-world System Administration, Cloud Engineering, Networking, Security and IT Operations
 * **zyra-ai-booking** -> AI-powered appointment booking system using n8n, OpenAI, WhatsApp API, Airtable, and Google Calendar.
 * **M365 & Azure Lab** -> Enterprise simulation environment utilizing Microsoft 365 Business Premium and Azure/Entra ID for identity and access management.
 
