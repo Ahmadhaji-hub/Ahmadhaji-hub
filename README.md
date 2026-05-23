@@ -11,7 +11,7 @@ IT Specialist, with hands-on experience in corporate IT environments, user manag
 I actively build and manage a personal Homelab / Virtual Lab environment to simulate enterprise networks, automate workflows, and sharpen my system administration skills.
 
 # 🚀 Projects
-* **GlobalTech IT Simulator -> A modern enterprise IT infrastructure simulation platform focused on real-world System Administration, Cloud Engineering, Networking, Security and IT Operations
+* **GlobalTech IT Simulator** -> A modern enterprise IT infrastructure simulation platform focused on real-world System Administration, Cloud Engineering, Networking, Security and IT Operations
 * **zyra-ai-booking** -> AI-powered appointment booking system using n8n, OpenAI, WhatsApp API, Airtable, and Google Calendar.
 * **M365 & Azure Lab** -> Enterprise simulation environment utilizing Microsoft 365 Business Premium and Azure/Entra ID for identity and access management.
 
